@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TwistedFizzBuzz.Console/1.0.0": {
+        "dependencies": {
+          "TwistedFizzBuzz.Library": "1.0.0"
+        },
+        "runtime": {
+          "TwistedFizzBuzz.Console.dll": {}
+        }
+      },
+      "TwistedFizzBuzz.Library/1.0.0": {
+        "runtime": {
+          "TwistedFizzBuzz.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwistedFizzBuzz.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TwistedFizzBuzz.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.csproj.AssemblyReference.cache
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.AssemblyInfo.cs
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.csproj.CoreCompileInputs.cache
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\bin\Debug\net7.0\TwistedFizzBuzz.Library.deps.json
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\bin\Debug\net7.0\TwistedFizzBuzz.Library.dll
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\bin\Debug\net7.0\TwistedFizzBuzz.Library.pdb
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.dll
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\refint\TwistedFizzBuzz.Library.dll
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\TwistedFizzBuzz.Library.pdb
+C:\Users\PranaySapa\source\repos\TwistedFizzBuzz.Console\TwistedFizzBuzz.Library\obj\Debug\net7.0\ref\TwistedFizzBuzz.Library.dll
